@@ -35,6 +35,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+## Credit
+Elements of the PWA implementation was inspired by instructor and student activities from throughout Week 19 
+
 ## Deployed App Link 
 - (https://shawn-robinson-challenge-19-b9c188ffe273.herokuapp.com/)
 
